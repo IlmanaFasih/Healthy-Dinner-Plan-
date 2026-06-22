@@ -1,0 +1,6 @@
+{
+  "name": "AI Dinner Planner & Nutrient Tracker",
+  "description": "Weekly dinner plans with calorie, protein, carbohydrate, and fat proportions. Supports High Protein, Keto, Mediterranean, Diabetic, Vegetarian, Vegan, and Pescatarian diets. Generates a shopping list in advance, lets users track daily eating, view historical caloric/protein charts, specify custom dinners, and get AI meal suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
